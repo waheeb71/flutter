@@ -123,7 +123,7 @@ This Flutter project is a chat application inspired by WhatsApp. The app feature
         <img src="https://github.com/MoazSayed7/Flutter-Chat-App-Firebase-Authentication-Messaging-WhatsApp-Like/assets/75115429/bcce51d3-1d24-4819-977d-33a939f32dfc" alt="drawing" style="width:250px;"/>
         <img src="https://github.com/MoazSayed7/Flutter-Chat-App-Firebase-Authentication-Messaging-WhatsApp-Like/assets/75115429/1b4345a9-0057-42af-b4de-59b2d3b6ef67" alt="drawing" style="width:250px;"/>
         <br/>
-        <br/>
+        <br/>+
         <br/>
         <img src="https://github.com/MoazSayed7/Flutter-Chat-App-Firebase-Authentication-Messaging-WhatsApp-Like/assets/75115429/029149ef-bfd5-48ae-8cf7-fb0fd2c8fc92" alt="drawing" style="width:250px;"/>
         <img src="https://github.com/MoazSayed7/Flutter-Chat-App-Firebase-Authentication-Messaging-WhatsApp-Like/assets/75115429/9e93edda-23f3-47ca-9ed8-bdab22389e0c" alt="drawing" style="width:250px;"/>
