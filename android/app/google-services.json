@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "863212987296",
+    "project_id": "cybercode-9f025",
+    "storage_bucket": "cybercode-9f025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863212987296:android:9f1b0fa3a1047f76b8bac5",
+        "android_client_info": {
+          "package_name": "com.admin.cyber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863212987296-lcb7hpc72r1mdlgiu74043qn70ks9s5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.cyber",
+            "certificate_hash": "d4934fb131a3c645321c2153fa47488aff64f15f"
+          }
+        },
+        {
+          "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzbzXoJ0H_AuSSm5kQCxLvFCsOMPCNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863212987296-d25jh5amopt88psbr0s8g89qq3lgtv95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberCodeplus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863212987296:android:f682df8286e7d78db8bac5",
+        "android_client_info": {
+          "package_name": "com.chatchat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzbzXoJ0H_AuSSm5kQCxLvFCsOMPCNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863212987296-d25jh5amopt88psbr0s8g89qq3lgtv95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberCodeplus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863212987296:android:60e584b0b6d37520b8bac5",
+        "android_client_info": {
+          "package_name": "com.syber.waheebcyber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863212987296-iqjlc3dmgr23h4hi0q5jsq1mf3l80vnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syber.waheebcyber",
+            "certificate_hash": "d4934fb131a3c645321c2153fa47488aff64f15f"
+          }
+        },
+        {
+          "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzbzXoJ0H_AuSSm5kQCxLvFCsOMPCNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863212987296-d25jh5amopt88psbr0s8g89qq3lgtv95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberCodeplus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863212987296:android:5c2a3bc2ac01af7ab8bac5",
+        "android_client_info": {
+          "package_name": "com.waheeb.cyber_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863212987296-4k0ft9ifibq5ehbviqecf7su68spf68t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waheeb.cyber_code",
+            "certificate_hash": "d4934fb131a3c645321c2153fa47488aff64f15f"
+          }
+        },
+        {
+          "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzbzXoJ0H_AuSSm5kQCxLvFCsOMPCNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863212987296-d25jh5amopt88psbr0s8g89qq3lgtv95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberCodeplus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863212987296:android:d7cef9b619243ee4b8bac5",
+        "android_client_info": {
+          "package_name": "com.waheeb.cybercode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzbzXoJ0H_AuSSm5kQCxLvFCsOMPCNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863212987296-178jjs2htfa6d93l2cn63ru0ubas2p09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863212987296-d25jh5amopt88psbr0s8g89qq3lgtv95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberCodeplus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
